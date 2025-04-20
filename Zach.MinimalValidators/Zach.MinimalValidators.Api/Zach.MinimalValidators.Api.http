@@ -1,0 +1,6 @@
+@Zach.MinimalValidators.Api_HostAddress = http://localhost:5095
+
+GET {{Zach.MinimalValidators.Api_HostAddress}}/test/hi
+Accept: application/json
+
+###
